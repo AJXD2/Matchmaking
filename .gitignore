@@ -1,0 +1,8 @@
+/activate_venv.bat
+/.venv
+/a.py
+/test.py
+/tree.txt
+/print_tree.py
+/.env
+**/__pycache__
